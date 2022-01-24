@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "the-git-rock",
+			"path": "../../../../the-git-rock/the-git-rock"
+		},
+		{
+			"name": "Harmadik",
+			"path": "../../../../Harmadik"
+		}
+	],
+	"settings": {}
+}
